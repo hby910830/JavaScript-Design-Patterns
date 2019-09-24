@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4083da1-4eaf-4628-aa8b-c607952f9178" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/hanbaoyi.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/工厂模式/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/桥接模式/demo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569337151623</updated>
-      <workItem from="1569337154869" duration="1164000" />
+      <workItem from="1569337154869" duration="2592000" />
     </task>
     <servers />
   </component>
